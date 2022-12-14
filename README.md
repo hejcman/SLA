@@ -1,6 +1,6 @@
 # SLA - Příklady z minulých let
 
-[<img src=https://img.shields.io/badge/PDF-Download-informational>](kompilace/kompilace.pdf)
+[<img src=https://img.shields.io/badge/PDF-Příklady-informational>](p%C5%99%C3%ADklady/p%C5%99%C3%ADklady.pdf) [<img src=https://img.shields.io/badge/PDF-Teorie-informational>](teorie/teorie.pdf)
 
 ## Checklist
 
